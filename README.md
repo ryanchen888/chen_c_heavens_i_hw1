@@ -1,6 +1,6 @@
-# Project Name
+# My First Page!
 
-TODO: Write a project description
+TODO: My Awsome Team
 
 ## Installation
 
